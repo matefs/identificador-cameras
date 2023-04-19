@@ -1,0 +1,13 @@
+.leaflet-control-zoom-out, .leaflet-control-zoom-in {
+  width:100px !important;
+}
+
+.centralizado{
+  display:flex;
+  align-itens:center;
+  justify-content:center;
+}
+
+.alinhaTextoCentro {
+  text-align:center;
+}
