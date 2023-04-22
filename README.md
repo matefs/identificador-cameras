@@ -4,7 +4,7 @@
 
 O Identificador de Câmeras é uma aplicação que permite que o usuário cadastre uma localização como um ponto que está sendo vigiado por câmeras. Com esta aplicação, o usuário poderá cadastrar um endereço ou coordenada geográfica e identificar quais câmeras estão instaladas naquela área.
 
-A aplicação foi desenvolvida com  uma ideia libertária frente ao intenso rastreamento de governos totalitários. A ideia não foi pensada pelo autor do código mas pelo libertário Fernando Echoes.
+A aplicação foi desenvolvida com  uma ideia libertária frente ao intenso rastreamento de governos totalitários. A ideia não foi pensada pelo autor do código mas pelo libertário Fernando E.
 
 ## **Como funciona**
 
