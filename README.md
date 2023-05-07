@@ -1,7 +1,5 @@
 # **Identificador de Câmeras** 
-
 ![mostrando projeto 2 ](https://user-images.githubusercontent.com/30128774/233203299-1a52ee61-4c70-44b9-b58c-b87b3a5764c0.gif)
-
 O Identificador de Câmeras é uma aplicação que permite que o usuário cadastre uma localização como um ponto que está sendo vigiado por câmeras. Com esta aplicação, o usuário poderá cadastrar um endereço ou coordenada geográfica e identificar quais câmeras estão instaladas naquela área.
 
 A aplicação foi desenvolvida com  uma ideia libertária frente ao intenso rastreamento de governos totalitários (como a China que possui o sistema de créditos sociais). A ideia não foi pensada pelo autor do código mas pelo libertário Fernando E.
